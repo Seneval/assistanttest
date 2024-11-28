@@ -1,0 +1,16 @@
+{
+  "name": "assistanttest",
+  "version": "1.0.0",
+  "description": "A simple assistant chatbot",
+  "main": "app.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.9"
+  }
+}
